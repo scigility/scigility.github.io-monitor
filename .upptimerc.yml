@@ -1,16 +1,12 @@
-# Change these first
-owner: scigility # Your GitHub username
-repo: scigility.github.io-monitor # Your GitHub repository name
+owner: scigility
+repo: scigility.github.io-monitor
 
-# Add your sites here
 sites:
   - name: Scigility Website
     url: https://scigility.com
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: scigility.com
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /scigility.github.io-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Scigility Uptime Monitor
@@ -18,9 +14,13 @@ status-website:
   #introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
+      href: /scigility.github.io-monitor
+    - title: Website
       href: /
-    - title: GitHub
+    - title: GitHub: Status
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: GitHub: Website
+      href: https://github.com/$OWNER/$REPO
+      
+assignees:
+  - matthiaspfenninger
