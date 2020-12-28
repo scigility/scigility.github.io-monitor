@@ -17,10 +17,10 @@ status-website:
       href: /scigility.github.io-monitor
     - title: Website
       href: /
-    - title: GitHub: Status
+    - title: "GitHub: Status"
       href: https://github.com/$OWNER/$REPO
-    - title: GitHub: Website
-      href: https://github.com/$OWNER/$REPO
-      
+    - title: "GitHub: Website"
+      href: https://github.com/$OWNER/scigility.github.io
+
 assignees:
   - matthiaspfenninger
