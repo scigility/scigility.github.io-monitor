@@ -6,15 +6,15 @@ sites:
     url: https://scigility.com
 
 status-website:
-  cname: monitor.scigility.com
-  #baseUrl: /scigility.github.io-monitor
+  #cname: monitor.scigility.com
+  baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Scigility Uptime Monitor
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /scigility.github.io-monitor
+      href: /uptime-monitor
     - title: Website
       href: /
     - title: "GitHub: Status"
