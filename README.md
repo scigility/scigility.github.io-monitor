@@ -1,4 +1,4 @@
-# [📈 Live Status](https://matthiaspfenninger.github.io/scigility.github.io-monitor): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://scigility.github.io/scigility.github.io-monitor): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [scigility](https://scigility.github.io/scigility.github.io-monitor), powered by [Upptime](https://github.com/upptime/upptime).
 
