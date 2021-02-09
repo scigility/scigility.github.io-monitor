@@ -4,9 +4,9 @@
     "url": "https://scigility.com",
     "icon": "https://favicons.githubusercontent.com/scigility.com",
     "slug": "scigility-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 404,
     "timeMonth": 386,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 0
+    }
   }
 ]
